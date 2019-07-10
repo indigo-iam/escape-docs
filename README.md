@@ -1,7 +1,5 @@
 # ESCAPE AAI documentation
 
-## The ESCAPE IAM instance
-
 The [ESCAPE IAM instance][escape-iam] is now available.
 
 Registration is active. Currently users can authenticate via Google and IAM
