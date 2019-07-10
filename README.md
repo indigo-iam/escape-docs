@@ -3,7 +3,7 @@
 The [ESCAPE IAM instance][escape-iam] is now available.
 
 Registration is active. Currently users can authenticate via Google and IAM
-credentials. EduGAIN authentication will be will come in September, 2019.
+credentials. EduGAIN authentication will come in September, 2019.
 
 IAM documentation is available [here][iam-docs].
 
