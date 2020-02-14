@@ -2,16 +2,16 @@
 
 The [ESCAPE IAM instance][escape-iam] is now available.
 
-Registration is active. Currently users can authenticate via Google and IAM
-credentials. EduGAIN authentication will come in September, 2019.
+Registration is active. Users can authenticate via Google, IAM and using their
+EduGAIN IdP (if necessary attributes are provided by the IdP). 
 
 IAM documentation is available [here][iam-docs].
 
 Clients applications can be registered following this
 [instructions][client-registration].
 
-VOMS support is now enabled. To link an X.509 certificate to an existing IAM
-escape account, follow this [instructions][x509-linking]. As in VOMS, multiple
+VOMS support is enabled. To link an X.509 certificate to an existing IAM escape
+account, follow this [instructions][x509-linking]. As in VOMS, multiple
 certificates can be linked to an account.
 
 ## ESCAPE VO configuration
