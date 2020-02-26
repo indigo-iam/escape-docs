@@ -7,7 +7,7 @@ EduGAIN IdP (if necessary attributes are provided by the IdP).
 
 IAM documentation is available [here][iam-docs].
 
-Clients applications can be registered following this
+Client applications can be registered following these
 [instructions][client-registration].
 
 VOMS support is enabled. To link an X.509 certificate to an existing IAM escape
