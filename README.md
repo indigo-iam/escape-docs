@@ -11,7 +11,7 @@ Client applications can be registered following these
 [instructions][client-registration].
 
 VOMS support is enabled. To link an X.509 certificate to an existing IAM escape
-account, follow this [instructions][x509-linking]. As in VOMS, multiple
+account, follow these [instructions][x509-linking]. As in VOMS, multiple
 certificates can be linked to an account.
 
 ## ESCAPE VO configuration
