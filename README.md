@@ -32,6 +32,7 @@ For an introduction on the topic, see the presentations linked below.
 - [ESCAPE AAI Webinar (April 2020)][escape-aai-webinar]
 - [ESCAPE AAI presentation (joint WP2/WP5 Workshop, July 2019)][escape-aai-slides-020719]
 
+[wlcg-authz-wg]: https://twiki.cern.ch/twiki/bin/view/LCG/WLCGAuthorizationWG
 [wlcg-jwt-profile]: https://zenodo.org/record/3460258
 [escape-iam]: https://iam-escape.cloud.cnaf.infn.it
 [iam-docs]: https://indigo-iam.github.io/docs
