@@ -19,6 +19,15 @@ certificates can be linked to an account.
 - [VOMSES](./voms-config/voms-escape.cloud.cnaf.infn.it.vomses)
 - [LSC](./voms-config/voms-escape.cloud.cnaf.infn.it.lsc)
 
+To have a working VOMS configuration for the ESCAPE VO:
+
+- place the lsc file in the `/etc/grid-security/vomsdir/escape` directory
+- place the vomses file in the `/etc/vomses directory` (only needed if you need to do voms-proxy-init)
+
+The latest supported VOMS clients are required (i.e., voms-proxy-init v. >=3 ).
+Also note that this VO is supported by IAM, i.e. there are no VOMS Admin
+endpoints that can be used to generate Gridmap files.
+
 ## The WLCG JWT Profile
 
 Token-based authorization in the ESCAPE data lake will be realized extending
