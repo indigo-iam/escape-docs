@@ -69,7 +69,7 @@ With `oidc-agent` this would be done with a command like:
 ```
 
 For more information on how to use oidc-agent to get tokens out of IAM, see the
-[relevant IAM documentation][https://indigo-iam.github.io/v/current/docs/tasks/user/getting-a-token/#obtaining-a-token-using-oidc-agent].
+[relevant IAM documentation][getting-token-docs].
 
 
 ## Presentations
@@ -87,3 +87,4 @@ For more information on how to use oidc-agent to get tokens out of IAM, see the
 [escape-aai-webinar]: https://indico.in2p3.fr/event/21072/
 [escape-auth-tests]: https://github.com/indigo-iam/escape-auth-tests
 [namespace-authz-proposal]: https://docs.google.com/document/d/1bWGVH1GlIWy-KMMl9ubqIdvyjGJbNf6W_JwpQ2DhV90/edit
+[getting-token-docs]: https://indigo-iam.github.io/v/current/docs/tasks/user/getting-a-token/#obtaining-a-token-using-oidc-agent
